@@ -1,5 +1,5 @@
 # 🏝️ The Castaway Collection
-### Our Digital Time Capsule · INL 340 (2026
+### Our Digital Time Capsule · INL 340 (2026)
 
 <img width="3200" height="800" alt="image" src="https://github.com/user-attachments/assets/bec6d603-b5ef-467c-a106-6fdc9e151770" />
 
